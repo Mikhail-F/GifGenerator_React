@@ -1,0 +1,18 @@
+.all{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.gif{
+    width: 30%;
+    height: 350px;
+    margin-top: 10px;
+    border: 2px solid lightgrey;
+    border-radius: 5px;
+}
+
+.gif img{
+    width: 100%;
+    max-height: 100%;
+}
